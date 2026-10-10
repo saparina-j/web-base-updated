@@ -7,6 +7,9 @@
 <img width="1018" height="423" alt="image" src="https://github.com/user-attachments/assets/3daf8a4d-2b3b-4c00-bc6c-7cbc604902a5" />
 задание 4
 <img width="695" height="277" alt="image" src="https://github.com/user-attachments/assets/ba6f3746-874a-45c9-8e5b-0573a07c5e51" />
+Задание 5
+<img width="1010" height="449" alt="image" src="https://github.com/user-attachments/assets/70eb761d-5644-40d0-a92c-27a21fce6efd" />
+
 
 
 
