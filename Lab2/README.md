@@ -1,4 +1,6 @@
 # Лабораторная работа №2
+задание 1
+<img width="1144" height="566" alt="image" src="https://github.com/user-attachments/assets/0c4867ff-0a16-4466-b146-3c57a267d17d" />
 
 Данная лабораторная предназначена для освоение базового синтаксиса JavaScript.
 
